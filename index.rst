@@ -18,6 +18,7 @@ Exabayte.io 使用マニュアル
     :numbered:
     :glob:
 
+    make_account
     model
     workflows
     first_principles_qe
