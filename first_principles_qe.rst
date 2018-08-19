@@ -12,5 +12,12 @@
 .. toctree::
    :maxdepth: 2
 
-   first_principles_qe/01
-
+   first_principles_qe/qe_scf
+   first_principles_qe/qe_relax
+   first_principles_qe/qe_vc-relax
+   first_principles_qe/qe_dos
+   first_principles_qe/qe_band
+   first_principles_qe/qe_dos_band
+   first_principles_qe/qe_phonon
+   first_principles_qe/bandgap
+   first_principles_qe/qe_surface_energy
