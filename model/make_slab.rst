@@ -40,6 +40,18 @@
 
 |
 
+=======================  =====================
+項目                     詳細                 
+=======================  =====================
+Miller h                 ミラー指数hの値      
+Miller k                 ミラー指数kの値      
+Miller l                 ミラー指数lの値      
+Thickness in laysers     スラブの厚さ         
+Vacuum ratio             真空層の占める割合   
+Spercell dimension X     X方向のスラブの大きさ
+Spercell dimension Y     Y方向のスラブの大きさ
+=======================  =====================
+
 Miller h, k, l はミラー指数を表し、表面にしたい面を入力します。
 
 |
@@ -56,7 +68,7 @@ Spercell dimension X は、X方向へのスーパーセルする場合には、1
 
 |
 
-Spercell dimension X は、Y方向へのスーパーセルする場合には、1以上の数字を入力します。
+Spercell dimension Y は、Y方向へのスーパーセルする場合には、1以上の数字を入力します。
 
 |
 
