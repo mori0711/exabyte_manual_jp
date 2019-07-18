@@ -38,4 +38,18 @@
    Plasmon-Pole GW Band Structure + Band Gap, Plasmon-Pole近似　GW　のバンド構造、バンドギャップ
    Full Frequency GW Band Structure + Band Gap, GW　のバンド構造、バンドギャップ
    Density of States, 状態密度　DOS
+   Band Structure + Density of States, バンド構造とDOS
+   Electronic Density Mesh, 電子密度図
+   Phonon Density of States, フォノン状態密度
+   Phonon Density of States + Dispersions, フォノン状態密度と分散
+   Zero Point Energy, ゼロ点エネルギー
+   Surface Energy, 表面エネルギー
+   Effective Screening Medium (ESM), ESM法での1点計算
+   Effective Screening Medium (ESM) Relax, ESM法下での構造最適化
+   Nudged Elastic Band (NEB), 反応経路計算　NEB計算
+   ML: Train Model, 機械学習モデル作成
+
+   
+   
+   
 
