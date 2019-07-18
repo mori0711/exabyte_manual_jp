@@ -6,7 +6,7 @@
 
 .. raw:: html
 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/tx7rzKLteYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   <iframe width="672" height="378" src="https://www.youtube.com/embed/tx7rzKLteYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
    
 -------------------------------------------------------------------------------------------------
 
