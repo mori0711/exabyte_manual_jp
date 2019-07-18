@@ -26,6 +26,7 @@
 .. csv-table::
    :header-rows: 1
    :widths: 5, 5
+   :align: center
 
    workflow名, 詳細
    Total Energy, エネルギー計算
