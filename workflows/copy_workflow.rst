@@ -8,7 +8,7 @@
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/workflow_cp_000.png                                    |
-  |    :scale: 80 %                                                          |
+  |    :scale: 40 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
@@ -17,8 +17,25 @@
 
   +--------------------------------------------------------------------------+
   | .. image:: ./imgs/workflow_cp_001.png                                    |
-  |    :scale: 60 %                                                          |
+  |    :scale: 40 %                                                          |
   |    :align: center                                                        |
   +--------------------------------------------------------------------------+
 
+| 2019年7月現在で、下記のworkflowが使用可能になっています。
+
+.. csv-table::
+   :header-rows: 1
+   :widths: 5, 5
+
+   workflow名, 詳細
+   Total Energy, エネルギー計算
+   Fixed-cell Relaxation, 構造最適化
+   Variable-cell Relaxation, セル最適化
+   Band Structure, バンド構造
+   Band Structure - HSE, バンド構造　HSE
+   Band Gap, バンドギャップ
+   Band Gap + DoS - HSE, バンドギャップ、状態密度、HSE
+   Plasmon-Pole GW Band Structure + Band Gap, Plasmon-Pole近似　GW　のバンド構造、バンドギャップ
+   Full Frequency GW Band Structure + Band Gap, GW　のバンド構造、バンドギャップ
+   Density of States, 状態密度　DOS
 
