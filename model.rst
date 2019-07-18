@@ -9,6 +9,7 @@
 .. toctree::
    :maxdepth: 2
 
+   model/select_cellmodel
    model/material_projects
    model/make_supercell
    model/make_slab
