@@ -10,6 +10,7 @@
    :maxdepth: 2
 
    model/select_cellmodel
+   model/change_material_cell_type
    model/material_projects
    model/make_supercell
    model/make_slab
