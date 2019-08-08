@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ReadTheDocs_180310'
-copyright = '2018, yasokada'
-author = 'yasokada'
+project = 'Exabyte.io　manual'
+copyright = '2019 Kazuki Mori'
+author = 'Kazuki Mori'
 
 # The short X.Y version
 version = ''
@@ -105,7 +105,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ReadTheDocs_180310doc'
+htmlhelp_basename = 'Exabyte_manual'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -132,8 +132,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'ReadTheDocs_180310.tex', 'ReadTheDocs\\_180310 Documentation',
-     'yasokada', 'manual'),
+    (master_doc, 'Exabyte_manual.tex', 'Exabyte_manual Documentation',
+     'mori', 'manual'),
 ]
 
 
@@ -142,7 +142,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'readthedocs_180310', 'ReadTheDocs_180310 Documentation',
+    (master_doc, 'Exabyte_manual', 'Exabyte_manual Documentation',
      [author], 1)
 ]
 
@@ -153,7 +153,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'ReadTheDocs_180310', 'ReadTheDocs_180310 Documentation',
-     author, 'ReadTheDocs_180310', 'One line description of project.',
+    (master_doc, 'Exabyte_manual', 'Exabyte_manual Documentation',
+     author, 'Exabyte_manual', 'One line description of project.',
      'Miscellaneous'),
 ]
