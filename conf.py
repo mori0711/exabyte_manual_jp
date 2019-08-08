@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Exabyte manual'
+project = 'Exabyte-manual'
 copyright = '2019, mori'
 author = 'mori'
 
