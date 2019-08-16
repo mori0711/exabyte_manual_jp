@@ -5,7 +5,7 @@ Exabayte.io 使用マニュアル
 `Exabyte.io <https://exabyte.io/>`_ は、第一原理計算用のGUIとクラウドコンピューティングが融合したアプリケーションです。
 第一原理計算にはハイスペックな計算マシンが必要でしたが、近年AWSやAzureなどのクラウドマシンを使うとハイスペックなマシン
 を用意しなくても高度な第一原理計算が可能になってきました。そのような時代の流れの中、`Exabyte社 <https://exabyte.io/>`_　がい
-ち早くクラウドコンピューティングと融合した第一原理計算のプラットフォームを開発しました。驚きの価格で第一原理計算ができます。
+ち早くクラウドコンピューティングと融合した第一原理計算のプラットフォームを開発しました。
 
 | このサイトでは、`Exabyte.io <https://exabyte.io/>`_　の操作方法について紹介します。
 
@@ -21,5 +21,6 @@ Exabayte.io 使用マニュアル
     workflows
     first_principles_qe
     first_principles_vasp
+    other_function
 
 
