@@ -12,3 +12,4 @@
    :maxdepth: 2
 
    other_function/other_external-upload.rst
+   other_function/setting_ssh.rst
