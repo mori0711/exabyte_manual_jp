@@ -14,5 +14,6 @@
    model/material_projects
    model/make_supercell
    model/make_slab
+   model/add_vacuum_area
    model/make_combinatorial
 
