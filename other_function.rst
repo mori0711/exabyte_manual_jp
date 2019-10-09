@@ -14,3 +14,4 @@
    other_function/other_external-upload.rst
    other_function/setting_ssh.rst
    other_function/add_balance.rst
+   other_function/share_public.rst
