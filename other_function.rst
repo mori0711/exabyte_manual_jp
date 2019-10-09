@@ -16,3 +16,4 @@
    other_function/add_balance.rst
    other_function/share_public.rst
    other_function/share_nopublic.rst
+   other_function/make_team.rst
