@@ -15,3 +15,4 @@
    other_function/setting_ssh.rst
    other_function/add_balance.rst
    other_function/share_public.rst
+   other_function/share_nopublic.rst
