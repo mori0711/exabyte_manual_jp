@@ -17,6 +17,7 @@ Exabayte.io 使用マニュアル
     :glob:
 
     make_account
+    settings
     model
     workflows
     first_principles_qe
