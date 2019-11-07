@@ -83,7 +83,4 @@
 
 
 
-`EXabyte.ioのリンク先 <https://exabyte.io/>`_
-
-`EXabyte.ioの事例集 <http://www.engineering-eye.com/EXABYTE/case/>`_  
 
