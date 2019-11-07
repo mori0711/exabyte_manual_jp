@@ -12,7 +12,7 @@ Exabayte.io 使用マニュアル
 項目
 ====
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
     :numbered:
     :glob:
 

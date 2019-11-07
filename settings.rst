@@ -10,4 +10,5 @@
    :maxdepth: 2
 
    settings/add_balance.rst
+   settings/add_storage.rst
 
