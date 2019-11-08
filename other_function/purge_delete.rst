@@ -18,8 +18,7 @@ PurgeとDeleteの違いについて
 
    操作, 詳細
    Purge, クラウド計算サーバーからデータを削除（削除後Exabyte.io上でジョブを見ることが可能）
-   Delete, Exabyte.ioのwebアプリから削除、クラウド計算機上には存在
-   Purge＆Delete, クラウド計算機からも、Exabyte.ioのwebアプリからも削除
+   Delete, クラウド計算機からも、Exabyte.ioのwebアプリからも削除
 
 
 下のアニメージョンは、
