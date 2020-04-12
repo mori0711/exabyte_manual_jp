@@ -17,6 +17,7 @@ Exabayte.io 操作マニュアル
     workflows
     first_principles_qe
     first_principles_vasp
+    usage_exabyte
     other_function
 
 
