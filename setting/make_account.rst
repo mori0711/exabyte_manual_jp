@@ -9,7 +9,8 @@ Exabyte.ioのアカウントを作成する方法を説明します。
 
 
 1. `EXABYTE.IO 登録ページへアクセス <https://platform.exabyte.io/register>`_　←クリック
-
+| 
+| 
 2. メールアドレスを入力し、I'm not robotにチェックを入れて質問に解答。その後、send verification codeをクリック
 
 3. 同じ画面でメールアドレス宛に送信された認証コードを入力
