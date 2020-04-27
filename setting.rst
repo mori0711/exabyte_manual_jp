@@ -10,4 +10,5 @@ Exabyte.ioを使用する上での設定について説明します。
    setting/make_account.rst
    setting/add_balance.rst
    setting/add_storage.rst
+   other_function/make_team.rst
 
