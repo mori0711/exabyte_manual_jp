@@ -9,6 +9,7 @@ Exabyte.io上での第一原理計算ソフトQuantum ESPRESO(QE)の計算操作
 
 .. toctree::
    :maxdepth: 1
+   :titlesonly:
 
    first_principles_qe/qe_scf
    first_principles_qe/qe_relax
