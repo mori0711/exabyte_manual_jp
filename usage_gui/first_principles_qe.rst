@@ -2,10 +2,20 @@
 第一原理計算 (QuantumESPRESSO)
 ==============================
 
+魏ポテンシャルの追加
+====================
+Exabyte.ioに設定されていない魏ポテンシャルを使用する場合について説明します。
+
+.. toctree::
+   :maxdepth: 2
+   :titlesonly:
+
+   first_principles_qe/qe_add_pp_way1
+
+
 計算操作説明
 ============
-
-Exabyte.io上での第一原理計算ソフトQuantum ESPRESO(QE)の計算操作について紹介します。
+Exabyte.io上で第一原理計算ソフトQuantum ESPRESO(QE)を使った計算について紹介します。
 
 .. toctree::
    :maxdepth: 2
