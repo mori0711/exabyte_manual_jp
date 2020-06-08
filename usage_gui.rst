@@ -3,7 +3,7 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    usage_gui/model.rst
    usage_gui/workflows.rst
