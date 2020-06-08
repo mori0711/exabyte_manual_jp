@@ -10,7 +10,7 @@ Exabyte.io使用マニュアル
 .. toctree::
     :maxdepth: 1
     :numbered:
-    :glob:
+    :titlesonly:
 
    setting
    usage_gui
