@@ -11,6 +11,7 @@ Exabyte.ioに設定されていない魏ポテンシャルを使用する場合�
    :titlesonly:
 
    first_principles_qe/qe_add_pp_way1
+   first_principles_qe/qe_add_pp_way2
 
 
 計算操作説明
