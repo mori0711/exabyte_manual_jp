@@ -32,3 +32,4 @@ Exabyte.io上で第一原理計算ソフトQuantum ESPRESO(QE)を使った計算
    first_principles_qe/bandgap
    first_principles_qe/qe_surface_energy
    first_principles_qe/qe_electronic_dielectric_function
+   first_principles_qe/qe_absorption_spectrum
